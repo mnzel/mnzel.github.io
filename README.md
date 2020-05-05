@@ -1,2 +1,2 @@
 # Portfolio 
-Under Construction
+Personal Portfolio Static site for Github.
